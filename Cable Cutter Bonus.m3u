@@ -1,0 +1,99 @@
+
+#EXTINF:-1  tvg-id="USAJ26000054W" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ26000054W_20241112T000713SQUARE.png" tvg-chno="1250" group-title="Movies",Paramount Movie Channel
+https://jmp2.uk/stvp-USAJ26000054W
+
+#EXTINF:-1  tvg-id="USBD300008G1" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300008G1_20250304T041503SQUARE.png" tvg-chno="1540" group-title="Entertainment",Bounce XL
+https://jmp2.uk/stvp-USBD300008G1
+
+#EXTINF:-1  tvg-id="USBD2500012DH" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD2500012DH_20250513T012658SQUARE.png" tvg-chno="1550" group-title="Entertainment",Ebony TV by Lionsgate
+https://jmp2.uk/stvp-USBD2500012DH
+
+#EXTINF:-1  tvg-id="USBA3700002JF" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA3700002JF_20240521T001305SQUARE.png" tvg-chno="2966" group-title="Entertainment",ET
+https://jmp2.uk/stvp-USBA3700002JF
+
+#EXTINF:-1  tvg-id="USBA300032J7" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBA300032J7_20240520T214534SQUARE.png" tvg-chno="2950" group-title="Entertainment",FOX SOUL
+https://jmp2.uk/stvp-USBA300032J7
+
+#EXTINF:-1  tvg-id="USBD270001633" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD270001633_20241228T011437SQUARE.png" tvg-chno="1220" group-title="Movies",Hallmark Movies & More
+https://jmp2.uk/stvp-USBD270001633
+
+#EXTINF:-1  tvg-id="USAJ3000007MT" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USAJ3000007MT_20250325T020231SQUARE.png" tvg-chno="1285" group-title="Movies",Maverick Black Cinema
+https://jmp2.uk/stvp-USAJ3000007MT
+
+#EXTINF:-1  tvg-id="USBB5200019FO" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBB5200019FO_20250325T015235SQUARE.png" tvg-chno="1225" group-title="Movies",Movie Favorites By Lifetime
+https://jmp2.uk/stvp-USBB5200019FO
+
+#EXTINF:-1  tvg-id="USBD17000117B" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD17000117B_20241105T024212SQUARE.png" tvg-chno="1230" group-title="Movies",MovieSphere
+https://jmp2.uk/stvp-USBD17000117B
+
+#EXTINF:-1  tvg-id="USBC3900018K6" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3900018K6_20240520T223400SQUARE.png" tvg-chno="1265" group-title="Movies",MyTime Movie Network
+https://jmp2.uk/stvp-USBC3900018K6
+
+#EXTINF:-1  tvg-id="US1800015K5" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/US1800015K5_20240709T002207SQUARE.png" tvg-chno="2635" group-title="Movies",National Lampoon
+https://jmp2.uk/stvp-US1800015K5
+
+#EXTINF:-1  tvg-id="USBD70000213" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD70000213_20240520T214848SQUARE.png" tvg-chno="2974" group-title="Entertainment",TMZ
+https://jmp2.uk/stvp-USBD70000213
+
+#EXTINF:-1  tvg-name="AMC Thrillers" tvg-id="99951377" tvg-logo="https://image.xumo.com/v1/channels/channel/99951377/168x168.png?type=color_onBlack" group-title="Movies",AMC Thrillers
+https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951377/hls/playlist.m3u8?ads.xumo_channelId=99951377&ads.channelId=99951377&ads.csid=xumo_web_AMCAMCThrillers_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=:534e0e7e-a892-4b1b-9e2c-8e74ccb57aeb&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4174&ads.xumo_contentName=AMCAMCThrillers&ads.xumo_providerId=4174&ads.xumo_providerName=AMCAMCThrillers&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.xumo_platform=web&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-name="50 Cent Action" tvg-id="99951439" tvg-logo="https://image.xumo.com/v1/channels/channel/99951439/168x168.png?type=color_onBlack" group-title="Movies",50 Cent Action
+https://dbrb49pjoymg4.cloudfront.net/10001/99951439/hls/playlist.m3u8?ads.xumo_channelId=99951439&ads._fw_ifa_type=&ads._fw_did=3898cf57-6cdc-4119-b1f5-249bccafbfbe&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=Lionsgate50CentAction&ads.csid=xumo_web_Lionsgate50CentAction_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4256&ads.xumo_contentName=Lionsgate50CentAction&ads.xumo_providerId=4256&ads.xumo_providerName=Lionsgate50CentAction&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951439&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-name="Shades of Black" tvg-id="9995106" tvg-logo="https://image.xumo.com/v1/channels/channel/9995106/168x168.png?type=color_onBlack" group-title="Movies",Shades of Black
+https://dbrb49pjoymg4.cloudfront.net/10001/9995106/hls/playlist.m3u8?ads.xumo_channelId=9995106&ads._fw_ifa_type=&ads._fw_did=ca575636-9411-46b5-afd4-94edfb7a5fd5&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=FuseBeat&ads.csid=xumo_web_FuseBeat_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=3508&ads.xumo_contentName=FuseBeat&ads.xumo_providerId=3508&ads.xumo_providerName=FuseBeat&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=9995106&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-name="TV One CRIME & JUSTICE FAST CHANNEL" tvg-id="99951299" tvg-logo="https://image.xumo.com/v1/channels/channel/99951299/168x168.png?type=color_onBlack" group-title="Entertainment",TV One CRIME & JUSTICE FAST CHANNEL
+https://dbrb49pjoymg4.cloudfront.net/10001/99951299/hls/playlist.m3u8?ads.xumo_channelId=99951299&ads._fw_ifa_type=&ads._fw_did=b8955be3-a66f-4ccb-b81b-06117f3b5ca4&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=TVOneCRIMEJUSTICEFASTCHANNEL&ads.csid=xumo_web_TVOneCRIMEJUSTICEFASTCHANNEL_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4024&ads.xumo_contentName=TVOneCRIMEJUSTICEFASTCHANNEL&ads.xumo_providerId=4024&ads.xumo_providerName=TVOneCRIMEJUSTICEFASTCHANNEL&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951299&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-name="TV One Stars & Stories" tvg-id="99951379" tvg-logo="https://image.xumo.com/v1/channels/channel/99951379/168x168.png?type=color_onBlack" group-title="Entertainment",TV One Stars & Stories
+https://dbrb49pjoymg4.cloudfront.net/10001/99951379/hls/playlist.m3u8?ads.xumo_channelId=99951379&ads._fw_ifa_type=&ads._fw_did=864c3f6e-1084-41c5-8846-db1aa87da321&ads.amznappId=&ads.lat=&ads.lon=&ads.os=&ads.osv=&ads.asnw=&ads.caid=TVOneStarsandStories&ads.csid=xumo_web_TVOneStarsandStories_ssai&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads.genre=&ads._fw_content_category=&ads._fw_content_language=en&ads._fw_content_genre=&ads._fw_content_rating=&ads.xumo_contentId=4176&ads.xumo_contentName=TVOneStarsandStories&ads.xumo_providerId=4176&ads.xumo_providerName=TVOneStarsandStories&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads.channelId=99951379&ads.xumo_platform=web&ads.site_id=&ads.appName=xumo&ads.appVersion=1.0.0&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=
+
+#EXTINF:-1  tvg-name="Universal Action" tvg-id="99951254" tvg-logo="https://image.xumo.com/v1/channels/channel/99951254/168x168.png?type=color_onBlack" group-title="Movies",Universal Action
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951254/hls/master.m3u8?ads.xumo_channelId=99951254&ads.asnw=169843&ads.afid=380748649&ads.sfid=19301225&ads.csid=xumo_web_NBCUUniversalAction_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=bb46dc9a-f8e1-483b-8d74-d14299e9a640&ads._fw_vcid2=512116:bb46dc9a-f8e1-483b-8d74-d14299e9a640&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3948&ads.xumo_contentName=NBCUUniversalAction&ads.xumo_providerId=3948&ads.xumo_providerName=NBCUUniversalAction&ads.channelId=99951254&ads._fw_ifa_type=
+
+#EXTINF:-1  tvg-name="Universal Crime" tvg-id="99951245" tvg-logo="https://image.xumo.com/v1/channels/channel/99951245/168x168.png?type=color_onBlack" group-title="Movies",Universal Crime
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951245/hls/master.m3u8?ads.xumo_channelId=99951245&ads.asnw=169843&ads.afid=380752676&ads.sfid=19194700&ads.csid=xumo_web_NBCUUniversalCrime_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=0b2061c1-10b4-4029-a005-fa85ca19ddcf&ads._fw_vcid2=512116:0b2061c1-10b4-4029-a005-fa85ca19ddcf&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3939&ads.xumo_contentName=NBCUUniversalCrime&ads.xumo_providerId=3939&ads.xumo_providerName=NBCUUniversalCrime&ads.channelId=99951245&ads._fw_ifa_type=
+
+#EXTINF:-1  tvg-name="Universal Monsters" tvg-id="99951264" tvg-logo="https://image.xumo.com/v1/channels/channel/99951264/168x168.png?type=color_onBlack" group-title="Movies",Universal Monsters
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951264/hls/master.m3u8?ads.xumo_channelId=99951264&ads.asnw=169843&ads.afid=380753606&ads.sfid=19301317&ads.csid=xumo_web_NBCUUniversalMonsters_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=02d2ce31-d9e8-4fec-b984-aaec1c2be264&ads._fw_vcid2=512116:02d2ce31-d9e8-4fec-b984-aaec1c2be264&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3940&ads.xumo_contentName=NBCUUniversalMonsters&ads.xumo_providerId=3940&ads.xumo_providerName=NBCUUniversalMonsters&ads.channelId=99951264&ads._fw_ifa_type=
+
+#EXTINF:-1  tvg-name="Universal Movies" tvg-id="99991621" tvg-logo="https://image.xumo.com/v1/channels/channel/99991621/168x168.png?type=color_onBlack" group-title="Movies",Universal Movies
+https://d4whmvwm0rdvi.cloudfront.net/10007/99991621/hls/master.m3u8?ads.xumo_channelId=99991621&ads.asnw=169843&ads.afid=158702674&ads.sfid=16926435&ads.csid=xumo_web_rottentomatoesrttv_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=abcaa6af-2ea8-40a1-a083-dafea8c1cde3&ads._fw_vcid2=512116:abcaa6af-2ea8-40a1-a083-dafea8c1cde3&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=2659&ads.xumo_contentName=RottenTomatoesRTTV&ads.xumo_providerId=2659&ads.xumo_providerName=RottenTomatoesRTTV&ads.channelId=99991621&ads._fw_ifa_type=
+
+#EXTINF:-1  tvg-name="Universal Westerns" tvg-id="99951255" tvg-logo="https://image.xumo.com/v1/channels/channel/99951255/168x168.png?type=color_onBlack" group-title="Movies",Universal Westerns
+https://d4whmvwm0rdvi.cloudfront.net/10007/99951255/hls/master.m3u8?ads.xumo_channelId=99951255&ads.asnw=169843&ads.afid=380752734&ads.sfid=19301248&ads.csid=xumo_web_NBCUUniversalWesterns_ssai_cro&ads._fw_is_lat=0&ads._fw_us_privacy=&ads._fw_coppa=0&ads._fw_did=8178df95-0f87-4f3d-b969-d3dcaa710b44&ads._fw_vcid2=512116:8178df95-0f87-4f3d-b969-d3dcaa710b44&ads._fw_app_bundle=web.xumo.com&ads._fw_app_store_url=&ads._fw_content_category=&ads._fw_content_genre=&ads._fw_content_language=en&ads._fw_content_rating=&ads._fw_deviceMake=GitHubAction&ads._fw_device_model=PythonScript&ads._fw_deviceType=3-Connected_TV&ads.appVersion=1.0.0&ads.appName=XumoPlay&ads.xumo_contentId=3947&ads.xumo_contentName=NBCUUniversalWesterns&ads.xumo_providerId=3947&ads.xumo_providerName=NBCUUniversalWesterns&ads.channelId=99951255&ads._fw_ifa_type=
+
+#EXTINF:-1  tvg-name="MGM Presents" tvg-id="5263332f746c6b1bed25aa6c105a79d9" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/5263332f746c6b1bed25aa6c105a79d9/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1747061592882_MGMPresents_HUDLogo_Centered_260x147.png" tvg-chno="295" group-title="Movies",MGM Presents
+https://jmp2.uk/rok-5263332f746c6b1bed25aa6c105a79d9.m3u8
+
+#EXTINF:-1  tvg-name="Animation+" tvg-id="2b54188672a6acb8d3e4c6b9e71a3a7c" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/2b54188672a6acb8d3e4c6b9e71a3a7c/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1731519594723_AnimationPlus_Hud_Logo_260x147_no_frame_alpha.png" tvg-chno="840" group-title="Animation",Animation+
+https://jmp2.uk/rok-2b54188672a6acb8d3e4c6b9e71a3a7c.m3u8
+
+#EXTINF:-1  tvg-name="Anime X HiDive" tvg-id="0b92deed3dd556cf91c911a36e948fde" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/0b92deed3dd556cf91c911a36e948fde/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1730996857858_Anime_HiDive_HXA_ImageHUD.png" tvg-chno="367" group-title="Animation",Anime X HiDive
+https://jmp2.uk/rok-0b92deed3dd556cf91c911a36e948fde.m3u8
+
+#EXTINF:-1  tvg-name="Backstage" tvg-id="2a243861dea754eabb13a92e1106a4af" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/2a243861dea754eabb13a92e1106a4af/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1735747556121_roku_logo_centered_260x147.png" tvg-chno="561" group-title="Movies",Backstage
+https://jmp2.uk/rok-2a243861dea754eabb13a92e1106a4af.m3u8
+
+#EXTINF:-1  tvg-name="BlackPix" tvg-id="98bcc63f72a95c159f4b079c1a9152c1" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/98bcc63f72a95c159f4b079c1a9152c1/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1661549254298_image003.png" tvg-chno="384" group-title="Entertainment",BlackPix
+https://jmp2.uk/rok-98bcc63f72a95c159f4b079c1a9152c1.m3u8
+
+#EXTINF:-1  tvg-name="Movie Hub" tvg-id="d32267711c6a5cf36520716c96b5b3fa" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/d32267711c6a5cf36520716c96b5b3fa/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793656039_Movie_Hub_260x147.png" tvg-chno="305" group-title="Movies",Movie Hub
+https://jmp2.uk/rok-d32267711c6a5cf36520716c96b5b3fa.m3u8
+
+#EXTINF:-1  tvg-name="Movie Hub Action" tvg-id="c5cbd4129753f5732d7160596440404f" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/c5cbd4129753f5732d7160596440404f/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1741793611093_Movie_Hub_Action_260x147.png" tvg-chno="282" group-title="Movies",Movie Hub Action
+https://jmp2.uk/rok-c5cbd4129753f5732d7160596440404f.m3u8
+
+#EXTINF:-1  tvg-name="Pam Grier's Soul Flix" tvg-id="e7b30e2a58409242100d0edd2bfebbfd" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/e7b30e2a58409242100d0edd2bfebbfd/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1734494082178_PGSF_HUDAthanasiosTsiris.png" tvg-chno="380" group-title="Movies",Pam Grier's Soul Flix
+https://jmp2.uk/rok-e7b30e2a58409242100d0edd2bfebbfd.m3u8
+
+#EXTINF:-1  tvg-name="Yu-Gi-Oh!" tvg-id="77946e082d8958f599087890aebf1623" tvg-logo="https://images.sr.roku.com/idType/roku/context/trc/id/77946e082d8958f599087890aebf1623/https%3A%2F%2Fimage.roku.com%2Fbh-uploads%2Fproduction%2FinfoHUDLogo%2F1712857102121_YuGiOh_LGLogo_HUD-Centered.png" tvg-chno="365" group-title="Animation",Yu-Gi-Oh!
+https://jmp2.uk/rok-77946e082d8958f599087890aebf1623.m3u8
+
+
+
+
+
+
